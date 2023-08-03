@@ -1,1 +1,2 @@
 This is file1.txtcd ..
+And this is the line 2 of file1.txt
